@@ -157,7 +157,7 @@ header > .menu > li > a:hover {
 }
 
 footer{
-    background-image: url(/assets/images/footer.svg);
+    background-image: url(images/footer.svg);
     height: 280px;
     width: 100%;
     background-repeat: no-repeat;
